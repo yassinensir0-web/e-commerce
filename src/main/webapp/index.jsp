@@ -57,7 +57,7 @@
         </ul>
         <p>Le pipeline CI/CD couvre l'ensemble des étapes étudiées dans votre formation : gestion de version (<span class="highlight">Git</span> / <span class="highlight">GitHub</span>), intégration continue (<span class="highlight">Jenkins</span>), qualité du code (<span class="highlight">SonarQube</span>), sécurité (<span class="highlight">OWASP ZAP</span>) et monitoring.</p>
         <div class="footer">
-            Ce projet a été réalisé et déployé automatiquement via Jenkins par <strong>Mohamed Tlili</strong>.
+            Ce projet a été réalisé et déployé automatiquement via Jenkins par <strong>yassine</strong>.
         </div>
     </div>
 </body>
